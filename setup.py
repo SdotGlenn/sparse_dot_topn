@@ -1,4 +1,5 @@
 from os import path
+from io import open
 import numpy
 from setuptools import setup, Extension
 from Cython.Distutils import build_ext
